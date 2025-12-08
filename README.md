@@ -1,4 +1,15 @@
-## Hi there 👋
+```
+ ,_     _
+ |\\_,-~/
+ / _  _ |    ,--.
+(  @  @ )   / ,-'
+ \  _T_/-._( (
+ /         `. \
+|         _  \ |
+ \ \ ,  /      |
+  || |-_\__   /
+ ((_/`(____,-'
+```
 
 <!--
 **tau-lavender/tau-lavender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
