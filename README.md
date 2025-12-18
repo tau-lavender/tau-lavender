@@ -1,27 +1,27 @@
 ```
- ,_     _
- |\\_,-~/
- / _  _ |    ,--.
-(  @  @ )   / ,-'
- \  _T_/-._( (
- /         `. \
-|         _  \ |
- \ \ ,  /      |
-  || |-_\__   /
- ((_/`(____,-'
+ ,_     _            
+ |\\_,-~/            
+ / _  _ |    ,--.    Конбанва, самураи!
+(  @  @ )   / ,-'    
+ \  _T_/-._( (       
+ /         `. \      
+|         _  \ |     
+ \ \ ,  /      |     
+  || |-_\__   /      
+ ((_/`(____,-'       
 ```
 
 <!--
-**tau-lavender/tau-lavender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+~ $ fastfetch
+ ,_     _            lavender@me
+ |\\_,-~/            -----------------
+ / _  _ |    ,--.    OS: Felis Catus
+(  @  @ )   / ,-'    Host: Homo Sapiens
+ \  _T_/-._( (       Kernel: Linux 6.17.7
+ /         `. \      Uptime: 18 years, 2 months, 8 days, 0 hours, 20 mins
+|         _  \ |     Shell: zsh 5.10
+ \ \ ,  /      |     CPU: MOS Technology 6502
+  || |-_\__   /      Memory: 157.69 TiB / 1.54 PiB (10%)
+ ((_/`(____,-'       Locale: ru_RU.UTF-8
+~ $
 -->
